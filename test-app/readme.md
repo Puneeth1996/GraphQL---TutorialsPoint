@@ -11,6 +11,10 @@ so we can test the application using GraphiQL tool.
 Open the browser and enter the URL http://localhost:9000/graphiql.
 
 
-{
-   Test 
+{ 
+    Test
 }
+
+
+![Alt Text](https://github.com/Puneeth1996/GraphQL---TutorialsPoint/blob/master/test-app/graphiQL%20test%20query.png)
+
